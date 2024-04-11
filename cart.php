@@ -1,4 +1,5 @@
 <?php
+//test text
 require_once("connection.php");
 if(isset($_POST['idGame']))
 {
